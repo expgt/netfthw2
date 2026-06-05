@@ -24,6 +24,7 @@
 ### Задание 1
 
 ![Haproxy_bal](https://github.com/expgt/netfthw2/blob/main/2_1_netfthw.png)
+![Haproxy_stat1](https://github.com/expgt/netfthw2/blob/main/2_1_1_netfthw.png)
 ![Haproxy_config1](https://github.com/expgt/netfthw2/blob/main/2_1_haproxy.cfg)
 
 ---
@@ -31,6 +32,7 @@
 ### Задание 2
 
 ![Haproxy_bal_domen](https://github.com/expgt/netfthw2/blob/main/2_2_netfthw.png)
+![Haproxy_stat2](https://github.com/expgt/netfthw2/blob/main/2_2_1_netfthw.png)
 ![Haproxy_config2](https://github.com/expgt/netfthw2/blob/main/2_2_haproxy.cfg)
 
 ---
