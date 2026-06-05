@@ -25,7 +25,7 @@
 
 ![Haproxy_bal](https://github.com/expgt/netfthw2/blob/main/2_1_netfthw.png)
 ![Haproxy_stat1](https://github.com/expgt/netfthw2/blob/main/2_1_1_netfthw.png)
-![Haproxy_config1](https://github.com/expgt/netfthw2/blob/main/2_1_haproxy.cfg)
+[Haproxy_config1](https://github.com/expgt/netfthw2/blob/main/2_1_haproxy.cfg)
 
 ---
 
@@ -33,19 +33,19 @@
 
 ![Haproxy_bal_domen](https://github.com/expgt/netfthw2/blob/main/2_2_netfthw.png)
 ![Haproxy_stat2](https://github.com/expgt/netfthw2/blob/main/2_2_1_netfthw.png)
-![Haproxy_config2](https://github.com/expgt/netfthw2/blob/main/2_2_haproxy.cfg)
+[Haproxy_config2](https://github.com/expgt/netfthw2/blob/main/2_2_haproxy.cfg)
 
 ---
 
 ### Задание 3
 
 ![Curl](https://github.com/expgt/netfthw2/blob/main/2_3_netfthw.png)
-![Haproxy_config3](https://github.com/expgt/netfthw2/blob/main/2_3_haproxy.cfg)
-![Nginx_config3](https://github.com/expgt/netfthw2/blob/main/2_3_example-http.conf)
+[Haproxy_config3](https://github.com/expgt/netfthw2/blob/main/2_3_haproxy.cfg)
+[Nginx_config3](https://github.com/expgt/netfthw2/blob/main/2_3_example-http.conf)
 
 ---
 
 ### Задание 4
 
 ![Haproxy_front](https://github.com/expgt/netfthw2/blob/main/2_4_netfthw.png)
-![Haproxy_config4](https://github.com/expgt/netfthw2/blob/main/2_4_haproxy.cfg)
+[Haproxy_config4](https://github.com/expgt/netfthw2/blob/main/2_4_haproxy.cfg)
